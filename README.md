@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @MattLeone
-- 👀 I’m interested in ... coding and writing.
-- 🌱 I’m currently learning ... how to write and how to be the best front end programmer.
-- 💞️ I’m looking to collaborate on ... stories and cool projects.
-- 📫 How to reach me ... brandnewmillstone@gmail.com / @ruffledsavior on twitter
+This repository is for written submissions. Please create a folder for yourself and submit your stories there. 
 
-<!---
-MattLeone/MattLeone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+15 minute intro video on github: https://www.youtube.com/watch?v=USjZcfj8yxE&pp=ygUOaG93IHRvIHVzZSBnaXQ%3D
+
+- 📫 How to reach me ... brandnewmillstone@gmail.com / @ruffledsavior on twitter
